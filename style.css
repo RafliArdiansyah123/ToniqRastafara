@@ -1,0 +1,19 @@
+.banner {
+  background: url("img/xxxxx.png") no-repeat center center;
+  background-size: cover;
+  color: hsl(0, 43%, 99%);
+}
+
+.banner p {
+  color: #fff;
+  font-size: 35px;
+}
+
+.banner h4 {
+  color: #fff;
+  font-size: 45px;
+}
+
+.music video {
+  background-size: cover;
+}
